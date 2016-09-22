@@ -20,9 +20,7 @@ foreach ($_GET as $name => $value){
 /* generate password*/
 for ($i = 1; $i <= (int)($config['word_num']); $i++) { 
 	$index = rand(0, count($wordList) - 1);
-	echo $index . " ";
 	$word = $wordList[$index];
-	echo $word;
 	# use hyphen after second word 
 	if ($i >= 2) {
 		# if the user selects 'All upper case", convert the password into uppercase 
