@@ -14,6 +14,8 @@ xkcd style password generator
   * Whether to include a special symbol
   * All upper case or all lower case
 
+## Link to screencast demo
+[P2 Demo](https://youtu.be/iCFtTWa3zM4)
 
 ## Outside Sources
 * Lecture examples - For reference
