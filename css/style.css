@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+body{
+    color:#423159;
+    font: 300 14px/20px 'Open Sans', sans-serif;
+}
+h1, h2{
+	color:#423159;
+    font-family: 'Oswald', sans-serif;
+}
+h3{
+    color:#423159;
+    font-family: 'Abel', sans-serif;
+}
+
+.passwordHolder{
+    margin-bottom:25px;
+    color:#423159;
+    background-color:#D99AB1;
+    display:block;
+    padding:15px;
+    font-weight:800;
+    border-radius: 25px;
+
+}
+
+.button{
+	background-color:#D99AB1;
+	color:#423159;
+}
+.button:hover {
+	background-color:#F2E9F2;
+}
+
+.center{
+    text-align: center;
+}
