@@ -58,13 +58,11 @@
 </form>
 
 <div class="center">					
-<p class='xkcd'>
-<p><a href='http://xkcd.com/936/'>Inspired by xkcd password strength</a></p>
 
+<p><a href='http://xkcd.com/936/'>Inspired by xkcd password strength</a></p>
 <a href='http://xkcd.com/936/'>
 <img class='xkcd center' src='http://imgs.xkcd.com/comics/password_strength.png' alt='xkcd password strength'>
 </a>
-</p>
 </div>
 </div>
 	
